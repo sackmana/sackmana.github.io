@@ -1,12 +1,8 @@
-name: "sackmana"
+name: "my-website"
 navbar:
-  title: "Andrew Sackman"
+  title: "My Website"
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
-      href: research.html
-output:
-  html_document:
-    theme: paper
-    css: 'styles.css'
+    - text: "About"
+      href: about.html
