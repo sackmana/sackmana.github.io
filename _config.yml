@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Andrew Sackman"
+  avatar           : "dsc_0481.jpg"
+  bio              : "Evolutionary Geneticist"
+  location         : "Washington & Lee University"
+  employer         : "Lexington, VA"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=z5X8gMkAAAAJ&hl=en&authuser=2"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
