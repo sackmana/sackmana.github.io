@@ -1,9 +1,8 @@
 ---
-title: "My Website"
+title: "Andrew Sackman"
 ---
+<img src="images/andrew.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
 
-Hello, Website!
+I am an evolutionary geneticist working as a Visiting Assistant Professor in the Department of Biology at Washington and Lee University.
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
-
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+I study the genetics of adaptation with a focus on the mechanisms by which epistasis, pleiotropy, and the underlying distribution of fitness effects (DFE) determine the properties of adaptive walks. My work utilizes a combination of wet-lab and computational approaches. In the lab, I experimentally evolve microvirid bacteriophages to explore the properties and limits of adaptation. I also work toward the development of new population genetic methods that are applicable to viruses and other organisms with highly skewed offspring distributions, for the purpose of analyzing population genomic data from experimentally evolved populations.
